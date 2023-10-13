@@ -4,7 +4,7 @@ import { Button } from '@mui/material';
 import React, { useEffect, useState } from 'react'
 
 //2.difination area
-export default function page() {
+export default function Page() {
     //2.1 hooks
    const[name4,setName4] = useState('rahul')//hook1
   
